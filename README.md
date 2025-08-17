@@ -31,12 +31,6 @@ We provide [inochi2d-c](https://github.com/Inochi2D/inochi2d-c) as a way to use 
 #### NOTE
 Inochi2D does not support compilation with the OpenD language. Only the [the official D language](https://dlang.org) and compilers are supported.
 
-&nbsp;
 
 
 
-[<img src="https://nlnet.nl/logo/banner.svg" alt="NLnet foundation logo" width="20%" />](https://nlnet.nl)  
-
----
-
-The Inochi2D logo was designed by [James Daniel](https://twitter.com/rakujira)
